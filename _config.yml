@@ -1,0 +1,33 @@
+# Site settings
+title: "My Recipe Book"
+description: "A collection of delicious recipes built with Jekyll and GitHub Pages."
+
+# Theme settings
+theme: minima  # Replace with your chosen theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections for recipes
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:title/
+
+# Markdown settings
+markdown: kramdown
+permalink: pretty
+
+# Author info
+author:
+  name: "SREE"
+  email: "your-email@example.com"
+
+# Navigation links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Recipes"
+    url: "/recipes/"
+  - title: "About"
+    url: "/about/"
