@@ -6,9 +6,7 @@ prep_time: "10 mins"
 cook_time: "15 mins"
 servings: "2"
 ---
-<head>
-    <link rel="stylesheet" href="styles.css">
-</head>
+
 ## Ingredients
 - 200g spaghetti
 - 4 cloves garlic, sliced
