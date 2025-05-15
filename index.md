@@ -9,6 +9,7 @@ servings: "2"
 <link rel="stylesheet" href="styles.css"/>
 
 ## Ingredients
+
 <div class="ingredient-card">
     <ul>
     <li>200g spaghetti</li>
@@ -18,6 +19,7 @@ servings: "2"
 </div>
 
 ## Equipment
+
 <div class="equipment-card">
 <ul>
 <li>Large pot</li>
@@ -27,6 +29,7 @@ servings: "2"
 </div>
 
 ## Instructions
+
 <div class="instruction-card">
 
 1. Bring a pot of salted water to a boil and cook spaghetti until al dente. Reserve 1/2 cup pasta water before draining.
@@ -38,6 +41,7 @@ servings: "2"
 </div>
 
 ## Notes
+
 <div class="notes-card">
 - You can add shrimp or mushrooms for extra flavor.
 - Adjust spice level by adding more or fewer chili flakes.
