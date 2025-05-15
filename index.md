@@ -6,16 +6,17 @@ prep_time: "10 mins"
 cook_time: "15 mins"
 servings: "2"
 ---
-
-## Ingredients
-- 200g spaghetti
-- 4 cloves garlic, sliced
-- 1/4 cup olive oil
-- 1 tsp red chili flakes
-- Salt, to taste
-- Fresh parsley, chopped
-- Parmesan cheese (optional)
-
+<link rel="stylesheet" href="styles.css"/>
+<div class="recipe-card">
+    ## Ingredients
+    - 200g spaghetti
+    - 4 cloves garlic, sliced
+    - 1/4 cup olive oil
+    - 1 tsp red chili flakes
+    - Salt, to taste
+    - Fresh parsley, chopped
+    - Parmesan cheese (optional)
+</div>
 ## Equipment
 - Large pot
 - Strainer
