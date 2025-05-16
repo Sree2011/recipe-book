@@ -5,6 +5,53 @@
   justify-content: center;
 }
 
+.body-cover {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #ffcc80, #ffab40); /* Warm gradient */
+}
+
+.cover-page {
+    text-align: center;
+    padding: 50px;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    width: 400px;
+}
+
+h1 {
+    font-size: 36px;
+    color: #d35400;
+}
+
+.tagline {
+    font-size: 18px;
+    font-style: italic;
+    color: #6d4c41;
+    margin-bottom: 20px;
+}
+
+.start-button {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #ff9800;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 18px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.start-button:hover {
+    background-color: #e68900;
+}
+
+
 .ingredient-card, .equipment-card, .instruction-card, .notes-card {
   background-color: #f9f9f9;
   padding: 20px;
