@@ -68,11 +68,13 @@ h1 {
 
 .recipe-summary {
     background-color: #fff3e0; /* Light orange */
-    padding: 15px;
+    padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-left: 4px solid #ff9800; /* Orange border */
-    max-width: 400px;
-    margin: 20px auto;
+    width: 100%; /* Full width */
+    margin: 20px 0; /* Adjust margin */
+    text-align: center;
     font-family: 'Poppins', sans-serif;
+    box-sizing: border-box; /* Ensure padding doesn't increase width */
 }
